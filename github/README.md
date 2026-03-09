@@ -19,7 +19,7 @@ cp .env.example .env
 ```
 
 Uzupełnij `HF_TOKEN` w pliku `.env` (token z [huggingface.co/settings/tokens](https://huggingface.co/settings/tokens)).
-Potrzebny do diaryzacji (model pyannote).
+Potrzebny do pobrania modelu diaryzacji (model pyannote).
 
 ### 2. Zbuduj frontend
 
