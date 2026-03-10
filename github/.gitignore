@@ -1,0 +1,29 @@
+# Environment
+.env
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Audio files
+*.wav
+*.mp3
+*.flac
+*.ogg
+*.m4a
+
+# Images (not needed in repo)
+*.png
+*.svg
+
+# Old backend (not used with whisper-asr)
+backend/
+benchmarks/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
