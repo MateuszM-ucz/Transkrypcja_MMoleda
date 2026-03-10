@@ -42,6 +42,7 @@ export interface WhisperAsrSegment {
   no_speech_prob: number
   words: null
   temperature: number
+  speaker?: string
 }
 
 export interface WhisperAsrResponse {
@@ -64,6 +65,7 @@ export function normalizeWhisperResponse(raw: WhisperAsrResponse, processingTime
       words: null,
       avg_logprob: s.avg_logprob,
       no_speech_prob: s.no_speech_prob,
+      speaker: s.speaker ?? null,
     })),
     info: {
       language: raw.language,
