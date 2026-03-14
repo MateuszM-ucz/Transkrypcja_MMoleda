@@ -13,7 +13,7 @@ WhisperX + large-v3-turbo, diaryzacja przez pyannote.
 
 ```bash
 git clone https://github.com/MateuszM-ucz/Transkrypcja_MMoleda.git
-cd Transkrypcja_MMoleda/github
+cd Transkrypcja_MMoleda/transkrypcja
 cp .env.example .env
 ```
 
