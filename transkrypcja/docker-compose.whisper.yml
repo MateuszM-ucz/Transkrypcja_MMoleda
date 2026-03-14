@@ -1,0 +1,21 @@
+services:
+  whisper-asr:
+    image: onerahmet/openai-whisper-asr-webservice:latest
+    restart: on-failure:5
+    ports:
+      - "9000:9000"
+    environment:
+      - ASR_ENGINE=whisperx
+      - ASR_MODEL=large-v3-turbo
+      - ASR_DEVICE=cpu
+      - HF_TOKEN=${HF_TOKEN}
+    volumes:
+      - whisper-cache:/root/.cache
+    deploy:
+      resources:
+        limits:
+          cpus: "4.0"
+          memory: 4G
+
+volumes:
+  whisper-cache:
