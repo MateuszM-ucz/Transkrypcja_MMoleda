@@ -63,16 +63,9 @@ Język: pl
 
 
 --- SPEAKER_00 ---
-[00:00.03 -> 00:11.30] Nazywam się Johnny Wick i na co dzień pracuję w Kancelarii Prawno-Patentowej Jarzynka i Wspólnicy, gdzie zajmuję się prawem własności przemysłowej.
+[00:00.03 -> 00:11.30] Nazywam się Johnny Wick i na co dzień pracuję w Kancelarii, gdzie zajmuję się prawem własności przemysłowej.
 [00:11.32 -> 00:17.95] Jako jamnik szorstkowłosy mam do tej pracy naturalne predyspozycje.
-[00:17.97 -> 00:25.38] Jestem czujny, konsekwentny i zawsze węsze tam, gdzie pojawia się ryzyko naruszeń.
-[00:25.36 -> 00:38.52] W Kancelarii Jarzynka i Wspólnicy pomagam chronić znaki towarowe i wzory przemysłowe, a także dbam o to, by pomysły naszych klientów nie wpadły w niepowołane łapy.
-[00:38.56 -> 00:47.35] Prawo własności przemysłowej wymaga cierpliwości, dokładności oraz umiejętności patrzenia kilka kroków do przodu.
-[00:47.33 -> 00:50.62] To akurat wychodzi mi doskonale.
-[00:50.66 -> 00:54.55] W końcu Jamnik zawsze myśli strategicznie.
-[00:54.57 -> 01:06.69] Jeśli chcecie dowiedzieć się, jak skutecznie chronić swoje marki, produkty i innowacje, zasubskrybujcie mój kanał oraz zajrzyjcie na naszą stronę internetową.
-[01:06.67 -> 01:20.85] W kolejnych materiałach pokażę, dlaczego w prawie własności przemysłowej warto mieć dobrego stróża, a jak będziecie potrzebowali pomocy w naszej kancelarii.
-[01:20.91 -> 01:24.88] Powołajcie się na mnie, a dostaniecie zniżkę.
+...
 [01:24.97 -> 01:27.75] Johnny melduje się na służbie.
 [01:27.81 -> 01:29.44] Do usłyszenia!
 ```
