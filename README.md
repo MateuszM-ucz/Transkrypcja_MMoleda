@@ -31,10 +31,10 @@ docker compose -f docker-compose.whisper.yml up -d
 docker compose -f docker-compose.gpu.yml up -d
 ```
 
-Pierwszy start pobiera model (~3GB) — poczekaj aż kontener będzie gotowy:
+Pierwszy start pobiera model (~3GB) - należy poczekać aż kontener będzie gotowy:
 ```bash
 docker compose -f docker-compose.whisper.yml logs -f
-# Czekaj na: "Uvicorn running on http://0.0.0.0:9000"
+# Należy czekać na: "Uvicorn running on http://0.0.0.0:9000"
 ```
 
 ## Transkrypcja
