@@ -57,7 +57,8 @@ chmod +x transkrybuj.sh
 
 Wynik zapisuje się do pliku `nazwa_transkrypcja.txt` z oznaczeniami mówców i znacznikami czasu.
 przykladowy output:
-```Język: pl
+```
+Język: pl
 ============================================================
 
 
