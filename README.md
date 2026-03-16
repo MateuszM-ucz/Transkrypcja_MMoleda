@@ -17,7 +17,7 @@ cd Transkrypcja_MMoleda/transkrypcja
 cp .env.example .env
 ```
 
-Uzupełnij `HF_TOKEN` w pliku `.env` — token z [huggingface.co/settings/tokens](https://huggingface.co/settings/tokens).
+Należy uzupełnić `HF_TOKEN` w pliku `.env` — token z [huggingface.co/settings/tokens](https://huggingface.co/settings/tokens).
 Token HuggingFace jest wymagany do diaryzacji (rozpoznawanie mówców). Model pyannote wymaga akceptacji licencji na https://huggingface.co/pyannote/speaker-diarization-3.1 oraz wygenerowania tokena na https://huggingface.co/settings/tokens 
 ## Uruchomienie
 
