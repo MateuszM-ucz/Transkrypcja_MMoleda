@@ -38,6 +38,7 @@ docker compose -f docker-compose.whisper.yml logs -f
 ```
 
 ## Transkrypcja
+dozwolone formaty: mp3, wav, m4a, flac, ogg, webm, mp4
 
 ```bash
 chmod +x transkrybuj.sh
