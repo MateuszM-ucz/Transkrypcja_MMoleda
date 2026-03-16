@@ -40,6 +40,7 @@ docker compose -f docker-compose.whisper.yml logs -f
 ## Transkrypcja
 dozwolone formaty: mp3, wav, m4a, flac, ogg, webm, mp4
 
+Na CPU mniej więcej 1 minuta przetwarzania na 30s audio, na GPU to samo idzie ~10x szybciej.
 ```bash
 chmod +x transkrybuj.sh
 
